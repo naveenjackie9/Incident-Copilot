@@ -14,11 +14,11 @@
 
 ---
 
-### [Name]
-- **Role:**
-- **Tech Stack:**
-- **Confirmed reading requirements.md:**
-- **Strengths / Team can rely on me for:**
+### Naveen M D
+- **Role:** Lead Engineer
+- **Tech Stack:** Java, Python, Microservices , PGSQL, BigQuery, Event brokers.
+- **Confirmed reading requirements.md:** Yes
+- **Strengths / Team can rely on me for:** Backend app dev, Tool development
 
 ---
 
